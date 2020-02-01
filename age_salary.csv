@@ -1,0 +1,11 @@
+index,Nation,purchased_item,salary,age
+0,India,No,66777,23
+1,Russia,Yes,87878,24
+2,Germany,No,34559,NaN
+3,India,Yes,40000,26
+4,Germany,Yes,NaN,21
+5,Russia,No,45000,NaN
+6,Germany,Yes,89993,62
+7,India,No,55555,24
+8,Russia,Yes,NaN,45
+9,Germany,Yes,67222,53
