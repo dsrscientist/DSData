@@ -1,0 +1,15 @@
+Day,Outlook,Wind,Humidity,Playtennis
+1,Sunny,Weak,High,No
+2,Sunny,Strong,High,No
+3,Overcast,Weak,Normal,Yes
+4,Rain,Weak,Normal,Yes
+5,Rain,Weak,High,Yes
+6,Rain,Strong,Normal,No
+7,Overcast,Strong,Normal,Yes
+8,Sunny,Weak,High,No
+9,Sunny,Weak,Normal,Yes
+10,Overcast,Strong,Normal,Yes
+11,Rain,Strong,Normal,No
+12,Overcast,Weak,Normal,Yes
+13,Rain,Weak,High,No
+14,Sunny,Strong,Weak,Yes
